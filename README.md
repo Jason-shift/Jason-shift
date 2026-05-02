@@ -34,8 +34,8 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jason-shift&show_icons=true&theme=radical" width="45%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jason-shift&theme=radical" width="45%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Jason-shift&show_icons=true&theme=radical" width="45%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jason-shift&theme=radical" width="45%"/>
 </p>
 
 ---
